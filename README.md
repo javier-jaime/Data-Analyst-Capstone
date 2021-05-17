@@ -1,2 +1,2 @@
 # Data-Analyst-Capstone
-Web-Scraping-Lab
+IBM DAta Analyst Capston Project
