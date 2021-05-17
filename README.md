@@ -1,2 +1,2 @@
 # Data-Analyst-Capstone
-IBM DAta Analyst Capston Project
+IBM Data Analyst Capstone Project
